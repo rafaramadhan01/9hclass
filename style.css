@@ -1,0 +1,40 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+
+#home {
+  background-color: #fff;
+}
+
+#about {
+  background-color: #fff;
+}
+
+#pengurus {
+  background-color: #fff;
+}
+
+#penghuni {
+    background-color: #fff;
+}
+
+#aktivitas {
+    background-color: #fff;
+}
+
+#colection {
+    background-color: #fff;
+}
+
+#jadwal {
+    background-color: #fff;
+}
+
+#contact {
+    background-color: #fff;
+}
+
+section {
+  padding-top: 5rem;
+}
